@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/itsparagjagtap" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=👀%20Profile%20Views&color=FF69B4&style=plastic" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=Building+robust+APIs...;Scaling+infra+with+Docker+%26+AWS...;Loving+clean+code+and+coffee+☕" alt="Typing Animation" />
 </p>
