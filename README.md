@@ -44,7 +44,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsparagjagtap">
-    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/itsparagjagtap" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=👀%20Profile%20Views&color=FF69B4&style=plastic" alt="Profile Views" />
   </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Typing SVG" />
 </p>
