@@ -44,5 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=itsparagjagtap.itsparagjagtap&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/itsparagjagtap">
+    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
