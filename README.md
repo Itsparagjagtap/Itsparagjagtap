@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parag Jagtap</h1>
 <h3 align="center">Backend Developer & Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="itsparagjagtap" /> </p>
 
 - 💬 Ask me about **JavaScript, Node.js, Express**
 
@@ -22,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsparagjagtap&show_icons=true&locale=en" alt="itsparagjagtap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsparagjagtap&" alt="itsparagjagtap" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=Profile%20views&color=0e75b6&style=flat" alt="itsparagjagtap" /> </p>
+
