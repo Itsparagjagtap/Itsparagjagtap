@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/itsparagjagtap" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=itsparagjagtap&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a>
-  
 </p>
+
